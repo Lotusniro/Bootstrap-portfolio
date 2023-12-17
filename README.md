@@ -5,14 +5,14 @@
 This is a portfolio website that I created using Bootstrap. It is a responsive website that will display properly on any screen size. It contains a navbar, Work section,About me Section and contact me section along with responsive images.
 I used the Bootstrap grid system to create a responsive layout for the website on about me section.
 
-![Screenshot of the Work section](/Screenshots/Screenshot 2023-12-17 at 22.30.36.png);
+![Screenshot of the Work section](../Screenshots/Screenshot 2023-12-17 at 22.30.36.png)
 
 I used the google fonts and bootstrap Icons to style the website.
 these are the screenshots of the website:
 
-![Screenshot of the navbar](/Screenshots/Screenshot 2023-12-17 at 22.30.11.png);
+![Screenshot of the navbar](/Screenshots/Screenshot 2023-12-17 at 22.30.11.png)
 
-![Screenshot of the About me section](/Screenshots/Screenshot 2023-12-17 at 22.31.43.png);
+![Screenshot of the About me section](/Screenshots/Screenshot 2023-12-17 at 22.31.43.png)
 
 ## Installation
 
