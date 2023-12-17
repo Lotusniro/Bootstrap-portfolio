@@ -10,7 +10,7 @@ I used the Bootstrap grid system to create a responsive layout for the website o
 I used the google fonts and bootstrap Icons to style the website.
 these are the screenshots of the website:
 
-![Screenshot of the navbar](../Screenshots/Screenshot 2023-12-17 at 22.30.11.png)
+![Screenshot of the navbar](https://github.com/Lotusniro/Bootstrap-portfolio/blob/main/Screenshots/Screenshot%202023-12-17%20at%2022.30.11.png)
 
 ![Screenshot of the About me section](Screenshots/Screenshot 2023-12-17 at 22.31.43.png)
 
